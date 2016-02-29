@@ -1,0 +1,21 @@
+{
+  "name": "loc8r",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Jared Hensley <jahensle85@me.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
